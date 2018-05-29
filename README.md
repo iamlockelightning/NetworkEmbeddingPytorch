@@ -36,8 +36,8 @@ python3 GraRep.py
 ### Test
 - Logistic Regression Classification
 ```Python
-python3 LRclassifier.py
-(python3 LR.py)
+python3 LRclassifier.py    # pytorch
+(python3 LR.py)            # scikit-learn
 ```
 
 - Link Prediction
